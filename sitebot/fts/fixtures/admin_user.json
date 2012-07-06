@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+      "username": "admin", 
+      "first_name": "", 
+      "last_name": "", 
+      "is_active": true, 
+      "is_superuser": true, 
+      "is_staff": true, 
+      "last_login": "2012-07-04T17:54:20Z", 
+      "groups": [], 
+      "user_permissions": [], 
+      "password": "pbkdf2_sha256$10000$u2xN3XTwz9eP$JRoFTceQD+y+yJjYRAJHWKpesz5ZVT4KlxFiR9rFLeI=", 
+      "email": "chad@blueearth.net", 
+      "date_joined": "2012-07-02T03:16:38Z"
+    }
+  }
+]
